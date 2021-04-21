@@ -1,2 +1,2 @@
-dll-injector\x64
-testdll\x64
+dll-injector\x64\*
+testdll\x64\*
